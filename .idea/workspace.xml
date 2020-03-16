@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7b8b9f6-cd85-4f88-bf29-d5b0333d72a7" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/gmall-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/gmall-mocker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\longlong\IdeaProjects\gmall\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZCI9UlCd41PJlc9JxcQMlCAlXg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b8b9f6-cd85-4f88-bf29-d5b0333d72a7" name="默认更改列表" comment="" />
+      <created>1584336497306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584336497306</updated>
+      <workItem from="1584336500522" duration="2201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1525" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584337078318">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1525" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2293.920@0.0.2293.920" timestamp="1584337078318" />
+    <state x="132" y="61" key="CommitChangelistDialog2" timestamp="1584338721633">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="132" y="61" key="CommitChangelistDialog2/0.0.2293.920@0.0.2293.920" timestamp="1584338721633" />
+    <state x="596" y="241" key="FileChooserDialogImpl" timestamp="1584338270358">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="596" y="241" key="FileChooserDialogImpl/0.0.2293.920@0.0.2293.920" timestamp="1584338270358" />
+    <state x="692" y="390" width="269" height="290" key="Github.ShareDialog" timestamp="1584338105579">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="692" y="390" width="269" height="290" key="Github.ShareDialog/0.0.2293.920@0.0.2293.920" timestamp="1584338105579" />
+    <state x="119" y="155" key="SettingsEditor" timestamp="1584338641454">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="119" y="155" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1584338641454" />
+    <state x="356" y="233" key="Vcs.Push.Dialog.v2" timestamp="1584338684164">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="356" y="233" key="Vcs.Push.Dialog.v2/0.0.2293.920@0.0.2293.920" timestamp="1584338684164" />
+    <state x="1069" y="155" key="new project wizard" timestamp="1584336669097">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1069" y="155" key="new project wizard/0.0.2293.920@0.0.2293.920" timestamp="1584336669097" />
+  </component>
+</project>
