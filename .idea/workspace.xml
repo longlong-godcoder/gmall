@@ -2,24 +2,146 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b8b9f6-cd85-4f88-bf29-d5b0333d72a7" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common/gmall-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-mocker/gmall-mocker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/src/main/java/constants/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/classes/constants/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/gmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/java/org/bigdata/gmalllogger/GmallLoggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/java/org/bigdata/gmalllogger/controller/LoggerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/classes/org/bigdata/gmalllogger/GmallLoggerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/classes/org/bigdata/gmalllogger/controller/LoggerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/gmall-logger-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/gmall-logger-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/target/test-classes/META-INF/gmall-logger.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/classes/org/bigdata/mocker/JsonMocker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/classes/org/bigdata/uploader/LogUploader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/classes/org/bigdata/utils/RanOpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/classes/org/bigdata/utils/RandomDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/classes/org/bigdata/utils/RandomNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/classes/org/bigdata/utils/RandomOptionGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/gmall-mocker-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-mocker/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/gmall-publisher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/java/org/bigdata/gmallpublisher/GmallPublisherApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/java/org/bigdata/gmallpublisher/controller/PublisherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/java/org/bigdata/gmallpublisher/mapper/DauMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/java/org/bigdata/gmallpublisher/service/PublisherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/java/org/bigdata/gmallpublisher/service/impl/PublisherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/main/resources/mapper/DauMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-publisher/src/test/java/org/bigdata/gmallpublisher/GmallPublisherApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/gmall-realtime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/app/DauApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/bean/StartupLog.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/handler/DauHandler.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/utils/MyKafkaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/utils/PropertiesUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/org/bigdata/utils/RedisUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/app/DauApp$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/app/DauApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/app/DauApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/bean/StartupLog$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/bean/StartupLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByMidGroup$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByMidGroup$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByMidGroup$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByMidGroup$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByRedis$1$$anonfun$1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByRedis$1$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByRedis$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByRedis2$1$$anonfun$apply$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$filterByRedis2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$saveMidToRedis$1$$anonfun$apply$1$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$saveMidToRedis$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$$anonfun$saveMidToRedis$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/handler/DauHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/utils/MyKafkaUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/utils/MyKafkaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/utils/PropertiesUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/utils/PropertiesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/utils/RedisUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/org/bigdata/utils/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-mocker/src/main/java/org/bigdata/mocker/JsonMocker.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-mocker/src/main/java/org/bigdata/mocker/JsonMocker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-mocker/src/main/java/org/bigdata/uploader/LogUploader.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-mocker/src/main/java/org/bigdata/uploader/LogUploader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Package Object" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -33,28 +155,138 @@
       </set>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1ZCI9UlCd41PJlc9JxcQMlCAlXg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.bigdata.gmalllogger" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JsonMocker">
+    <configuration name="DauApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bigdata.app.DauApp" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bigdata.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonMocker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bigdata.mocker.JsonMocker" />
+      <module name="gmall-mocker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bigdata.mocker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.bigdata.test" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.bigdata.gmalllogger.GmallLoggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPublisherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-publisher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.bigdata.gmallpublisher.GmallPublisherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DauApp" />
+        <item itemvalue="Application.JsonMocker" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.5191053" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -71,41 +303,128 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584336497306</updated>
-      <workItem from="1584336500522" duration="2201000" />
+      <workItem from="1584336500522" duration="13968000" />
+      <workItem from="1584370289256" duration="14885000" />
+      <workItem from="1584430361932" duration="2388000" />
+      <workItem from="1584444590736" duration="608000" />
+      <workItem from="1584445235706" duration="847000" />
+      <workItem from="1584446099526" duration="459000" />
+      <workItem from="1584446823514" duration="22894000" />
     </task>
+    <task id="LOCAL-00001" summary="first commitment">
+      <created>1584338774605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584338774605</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commitment" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commitment" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="166" y="123" key="#SQL_Dialects" timestamp="1584508332758">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="166" y="123" key="#SQL_Dialects/0.0.2293.920@0.0.2293.920" timestamp="1584508332758" />
+    <state x="166" y="123" key="#Scala" timestamp="1584451216287">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="166" y="123" key="#Scala/0.0.2293.920@0.0.2293.920" timestamp="1584451216287" />
     <state x="1525" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584337078318">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
     <state x="1525" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2293.920@0.0.2293.920" timestamp="1584337078318" />
-    <state x="132" y="61" key="CommitChangelistDialog2" timestamp="1584338721633">
+    <state x="379" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1584508018084">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state x="132" y="61" key="CommitChangelistDialog2/0.0.2293.920@0.0.2293.920" timestamp="1584338721633" />
-    <state x="596" y="241" key="FileChooserDialogImpl" timestamp="1584338270358">
+    <state x="379" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.2293.920@0.0.2293.920" timestamp="1584508018084" />
+    <state x="773" y="386" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584361477355">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state x="596" y="241" key="FileChooserDialogImpl/0.0.2293.920@0.0.2293.920" timestamp="1584338270358" />
+    <state x="773" y="386" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2293.920@0.0.2293.920" timestamp="1584361477355" />
+    <state x="938" y="341" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584361479036">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="938" y="341" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2293.920@0.0.2293.920" timestamp="1584361479036" />
+    <state x="160" y="126" key="#项目结构" timestamp="1584449124481">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="160" y="126" key="#项目结构/0.0.2293.920@0.0.2293.920" timestamp="1584449124481" />
+    <state x="132" y="61" key="CommitChangelistDialog2" timestamp="1584338773219">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="132" y="61" key="CommitChangelistDialog2/0.0.2293.920@0.0.2293.920" timestamp="1584338773219" />
+    <state x="596" y="241" key="FileChooserDialogImpl" timestamp="1584445137186">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="596" y="241" key="FileChooserDialogImpl/0.0.2293.920@0.0.2293.920" timestamp="1584445137186" />
     <state x="692" y="390" width="269" height="290" key="Github.ShareDialog" timestamp="1584338105579">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
     <state x="692" y="390" width="269" height="290" key="Github.ShareDialog/0.0.2293.920@0.0.2293.920" timestamp="1584338105579" />
-    <state x="119" y="155" key="SettingsEditor" timestamp="1584338641454">
+    <state width="1102" height="196" key="GridCell.Tab.0.bottom" timestamp="1584506405372">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state x="119" y="155" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1584338641454" />
+    <state width="1102" height="196" key="GridCell.Tab.0.bottom/0.0.2293.920@0.0.2293.920" timestamp="1584506405372" />
+    <state width="1102" height="196" key="GridCell.Tab.0.center" timestamp="1584506405372">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1102" height="196" key="GridCell.Tab.0.center/0.0.2293.920@0.0.2293.920" timestamp="1584506405372" />
+    <state width="1102" height="196" key="GridCell.Tab.0.left" timestamp="1584506405372">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1102" height="196" key="GridCell.Tab.0.left/0.0.2293.920@0.0.2293.920" timestamp="1584506405372" />
+    <state width="1102" height="196" key="GridCell.Tab.0.right" timestamp="1584506405372">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1102" height="196" key="GridCell.Tab.0.right/0.0.2293.920@0.0.2293.920" timestamp="1584506405372" />
+    <state width="1068" height="215" key="GridCell.Tab.1.bottom" timestamp="1584409820192">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1068" height="215" key="GridCell.Tab.1.bottom/0.0.2293.920@0.0.2293.920" timestamp="1584409820192" />
+    <state width="1068" height="215" key="GridCell.Tab.1.center" timestamp="1584409820192">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1068" height="215" key="GridCell.Tab.1.center/0.0.2293.920@0.0.2293.920" timestamp="1584409820192" />
+    <state width="1068" height="215" key="GridCell.Tab.1.left" timestamp="1584409820192">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1068" height="215" key="GridCell.Tab.1.left/0.0.2293.920@0.0.2293.920" timestamp="1584409820192" />
+    <state width="1068" height="215" key="GridCell.Tab.1.right" timestamp="1584409820192">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1068" height="215" key="GridCell.Tab.1.right/0.0.2293.920@0.0.2293.920" timestamp="1584409820192" />
+    <state x="128" y="71" key="SettingsEditor" timestamp="1584449119542">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="128" y="71" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1584449119542" />
     <state x="356" y="233" key="Vcs.Push.Dialog.v2" timestamp="1584338684164">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
     <state x="356" y="233" key="Vcs.Push.Dialog.v2/0.0.2293.920@0.0.2293.920" timestamp="1584338684164" />
-    <state x="1069" y="155" key="new project wizard" timestamp="1584336669097">
+    <state x="1419" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1584446823491">
       <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state x="1069" y="155" key="new project wizard/0.0.2293.920@0.0.2293.920" timestamp="1584336669097" />
+    <state x="1419" y="285" key="com.intellij.ide.util.TipDialog/0.0.2293.920@0.0.2293.920" timestamp="1584446823491" />
+    <state x="115" y="141" key="new project wizard" timestamp="1584498106851">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="115" y="141" key="new project wizard/0.0.2293.920@0.0.2293.920" timestamp="1584498106851" />
+    <state x="804" y="211" width="672" height="677" key="run.anything.popup" timestamp="1584409706515">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="804" y="211" width="672" height="677" key="run.anything.popup/0.0.2293.920@0.0.2293.920" timestamp="1584409706515" />
+    <state x="237" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1584508846860">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="237" y="200" width="672" height="678" key="search.everywhere.popup/0.0.2293.920@0.0.2293.920" timestamp="1584508846860" />
   </component>
 </project>

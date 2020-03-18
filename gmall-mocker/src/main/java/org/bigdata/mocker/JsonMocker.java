@@ -120,8 +120,8 @@ public class JsonMocker {
              `ts` bigint COMMENT '启动时间', ,
              `area` string COMMENT '城市' */
 
-        String mid = "mid_" + RandomNum.getRandInt(1, 500);
-        String uid = "" + RandomNum.getRandInt(1, 500);
+        String mid = "mid_" + RandomNum.getRandInt(1, 100);
+        String uid = "" + RandomNum.getRandInt(1, 100);
         String os = osOptionGroup.getRandomOpt().getValue();
         String appid = this.appId;
         String area = areaOptionGroup.getRandomOpt().getValue();
